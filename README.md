@@ -7,7 +7,7 @@ Developed Choropleth map to answer the three below questions:
 3. Are there neighboring countries that have radically different patterns in terms of how much they receive vs. how much they donate?
 
 **Dataset:**<br>
-Name: AidData.csv <br>
+***Name: AidData.csv*** <br>
 Each line in the dataset represents a country and contains the total amount donated and received by the country
 
 # More
